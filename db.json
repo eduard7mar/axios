@@ -1,0 +1,39 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "sex": "male",
+      "age": 26,
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjM3MjM3NTAxM15BMl5BanBnXkFtZTgwMTY0Nzg2OTE@._V1_.jpg"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "sex": "female",
+      "age": 31,
+      "photo": "https://img.freepik.com/free-photo/cheerful-dark-skinned-woman-smiling-broadly-rejoicing-her-victory-competition-among-young-writers-standing-isolated-against-grey-wall-people-success-youth-happiness-concept_273609-1246.jpg"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "sex": "male",
+      "age": 35,
+      "photo": "https://img.freepik.com/premium-photo/casually-handsome-confident-young-handsome-man-jeans-shirt-keeping-arms-crossed-smiling-while-standing-against-white-background_425904-14571.jpg"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "sex": "female",
+      "age": 23,
+      "photo": "https://media.istockphoto.com/id/1277996375/photo/happy-young-woman-studio-portrait.jpg?s=612x612&w=0&k=20&c=GrJyXLoamxUDaLxgvt9TJtoM5BdHu6u99VCGM_w-2o4="
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "sex": "male",
+      "age": 30,
+      "photo": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w425/cast/3b2b388f58aae2da_yr_michaelm_800x1000.jpg"
+    }
+  ]
+}
